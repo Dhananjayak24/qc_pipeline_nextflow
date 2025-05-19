@@ -9,8 +9,6 @@ This pipeline processes raw ONT FASTQ files through three main steps:
 2. **Host DNA Removal** (Kraken2 with CHM13 human genome database)
 3. **Quality Assessment** (NanoStat)
 
-![Pipeline Workflow](workflow_diagram.png) *(Consider adding a diagram later)*
-
 ## Requirements
 
 - Nextflow (>= 22.10.0)
